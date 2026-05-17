@@ -64,7 +64,7 @@ Agentic AI może służyć jako pierwszy "reviewer":
 - Analiza stylu kodu
 - Sprawdzenie zgodności z best practices
 - Identyfikacja możliwych bugów
-- Sugestie refaktoringu
+
 
 ---
 
